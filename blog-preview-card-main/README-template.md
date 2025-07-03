@@ -3,7 +3,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -12,6 +11,9 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+## screenshot
+![](./assets/images/Screenshot_3-7-2025_195944_.jpeg)
 
 ## Overview
 This project is a blog preview card, inspired by a Frontend Mentor challenge. It showcases a blog post preview, including an illustration image, a "Learning" tag button, publication date, title, description, and author avatar. The card is designed to look modern, clean, and eye-catching — with strong focus on visual hierarchy and layout.
@@ -65,8 +67,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@jeff20501](https://www.frontendmentor.io/profile/jeff20501)
 - github - [@jeff20501](https://github.com/jeff20501)
 
