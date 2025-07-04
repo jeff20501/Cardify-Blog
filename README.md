@@ -3,13 +3,10 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -17,12 +14,8 @@
 ## Overview
 This project is a blog preview card, inspired by a Frontend Mentor challenge. It showcases a blog post preview, including an illustration image, a "Learning" tag button, publication date, title, description, and author avatar. The card is designed to look modern, clean, and eye-catching — with strong focus on visual hierarchy and layout.
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
-
+## Screenshot
+![](./blog-preview-card-main/assets/images/Screenshot_3-7-2025_195944_.jpeg)
 
 
 ## My process
